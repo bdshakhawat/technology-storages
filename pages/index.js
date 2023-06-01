@@ -1,10 +1,11 @@
 import React from 'react';
-import { Product, FooterBanner, HeroBanner } from '../components';
+import HeroBanner from '../components/HeroBanner';
+import Footer from '../components/Footer';
 
 const Home = () => {
   return (
    <>
-      HeroBanner
+      <HeroBanner/>
 
 
       <div className='products-heading'>
@@ -19,7 +20,7 @@ const Home = () => {
       </div>
 
 
-      Footer
+      <Footer/>
    
    
    
