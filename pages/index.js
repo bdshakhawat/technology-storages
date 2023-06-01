@@ -1,6 +1,8 @@
 import React from 'react';
-import HeroBanner from '../components/HeroBanner';
-import Footer from '../components/Footer';
+import { Footer, HeroBanner } from '../components';
+// import HeroBanner from '../components/HeroBanner';
+
+// import Footer from '../components/Footer';
 
 const Home = () => {
   return (
