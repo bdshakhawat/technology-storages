@@ -1,8 +1,17 @@
-import React from 'react'
+import React from 'react';
+import { AiFillInstagram, AiOutlineTwitter, AiOutlineFacebook } from 'react-icons/ai';
 
 const Footer = () => {
   return (
-    <div footer-container>Footer</div>
+    <div className='footer-container'>
+          <p>2023 Sumon's Headphones All rights Reserved</p>
+          <p className='icons'>
+              <AiFillInstagram/>
+              <AiOutlineTwitter/>
+              <AiOutlineFacebook/>
+
+          </p>
+      </div>
   )
 }
 

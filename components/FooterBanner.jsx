@@ -29,7 +29,7 @@ const FooterBanner = ({footerBanner:{
             
 
             <img 
-              src={urlFor(image)} className='footer-banner-image'
+              src={urlFor(image)} className='footer-banner-image' 
             />
 
         </div>
