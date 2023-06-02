@@ -3,7 +3,7 @@ import React from 'react';
 import { client } from '../lib/client';
 import { Product, FooterBanner, HeroBanner } from '../components';
 
-const Home = (products, bannerData) => (
+const Home = ({products, bannerData}) => (
   <div>
     <HeroBanner/>
     {console.log(bannerData)}
@@ -14,7 +14,7 @@ const Home = (products, bannerData) => (
 
 
     <div className="products-container">
-      {Product?.map((product) => Product(product.name))}
+       {products?.map((product)=>product.name)}
     </div> 
 
      <FooterBanner  />
