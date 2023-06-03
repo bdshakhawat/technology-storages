@@ -3,9 +3,9 @@ import React from 'react';
 import { client } from '../lib/client';
 import { Product, FooterBanner, HeroBanner } from '../components';
 
-const Home = (products, bannerData) => (
+const Home = ({products, bannerData}) => (
   <div>
-    <HeroBanner/>
+    <HeroBanner heroBanner={bannerData.length&& bannerData[0]}/>
     {console.log(bannerData)}
     <div className="products-heading">
       <h2>Best Seller Products</h2>
@@ -14,10 +14,10 @@ const Home = (products, bannerData) => (
 
 
     <div className="products-container">
-      {Product?.map((product) => Product(product.name))}
+       {products?.map((product)=><Product key={product._id}product={product}/>)}
     </div> 
 
-     <FooterBanner  />
+     <FooterBanner footerBanner={bannerData&& bannerData[0]}/>
   </div>
 );
 
