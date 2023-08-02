@@ -90,7 +90,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](charming-basbousa-60d966.netlify.app)
+- [Live Demo Link](https://64ca2bc1c1f18303fe3acce2--charming-basbousa-60d966.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
