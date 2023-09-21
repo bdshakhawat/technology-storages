@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="./assets/image/photo.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio Project</b></h3>
+  <h3><b>Technology Storage Project</b></h3>
 
 </div>
 
@@ -59,10 +59,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio Project <a name="about-project"></a>
+# 📖 Technology Storage Project <a name="about-project"></a>
 
 
-**Portfolio Project** is a personal project to showcase my skills and works
+**Technology Storage Project** is a personal project to showcase my skills and works
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML and CSS</li>
+    <li>React and Next Js</li>
   </ul>
 </details>
 
