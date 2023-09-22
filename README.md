@@ -81,16 +81,16 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **Show my skills**
-- **Show my projects**
-- **Express my future goal as a software engineer**
+- **Product Variety and Availability**
+- **Expert Customer Service**
+- **Online and In-Store Integration**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://64ca2bc1c1f18303fe3acce2--charming-basbousa-60d966.netlify.app/)
+- [Live Demo Link]([https://64ca2bc1c1f18303fe3acce2--charming-basbousa-60d966.netlify.app/](https://technology-storeage.netlify.app/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,8 +126,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd my-folder
-  git clone git@github.com:bdshakhawat/m-pf.git
+  cd technology-storage
+  [git clone git@github.com:bdshakhawat/m-pf.git](https://github.com/bdshakhawat/technology-storages.git)
 ```
 
 ### Install
@@ -135,13 +135,13 @@ Clone this repository to your desired folder:
 Install this project with:
 
 <ul>
-  <li>Node</li>
-  <li>Linters (follow this link's instruction <a href="https://github.com/microverseinc/linters-config">install linter</a>)</li>
+  <li>npm install</li>
+  
 </ul>
 
 ### Usage
 
-To run the project, double click on ```index.html``` file or run this file in your favorite browser.
+To run the project, double click on ```npm run dev``` file or run this file in your favorite browser.
 
 <!--
 Example command:
@@ -164,7 +164,7 @@ Example command:
 
 ### Deployment
 
-Deployment instruction will be added soon
+Create an account in netlify and deploy from github repo
 <!--
 Example:
 
@@ -192,9 +192,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **project showcase section**
-- **client's feedback**
-- **contact section**
+- **Virtual Product Demos**
+- **Loyalty Programs**
+- **Smart Store Features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
